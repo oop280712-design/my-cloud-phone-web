@@ -3,7 +3,7 @@
 // ==========================================================================
 
 const vipUsers = ["sawat2823@gmail.com", "oop280712@gmail.com"];
-let currentUserEmail = "sawat2823@gmail.com";
+let currentUserEmail = "sawat2823@gmail.com"; "oop280712@gmail.com";
 let currentMode = "virtual"; // "virtual" (Native UI) หรือ "live" (Redroid WebRTC/Stream)
 
 document.addEventListener("DOMContentLoaded", () => {
